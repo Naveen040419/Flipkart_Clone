@@ -5,6 +5,14 @@ body {
   background-color: #f1f2f4;
 }
 
+:root{
+  --primary-color: #2a55e5;
+  --secondary-color: #ff9f00;
+  --text-color: #333;
+  --background-color: #f0f5ff;
+  --border-color: #e0e0e0;
+}
+
 header {
   background-color: #ffffff;
   color: #fff;
